@@ -1,0 +1,11 @@
+@import url('fontawesome.css');
+
+.bit-right{
+    margin-right:0.5em;
+}
+.custom-button{
+    color:#ccc;
+}
+.custom-button:hover{
+    color:#444;
+}

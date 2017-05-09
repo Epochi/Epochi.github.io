@@ -1,9 +1,11 @@
 .grunt
 .c9
 .gitdir
+_book
 CNAME
 c9notes.md
 node_modules
 *.epub
 *.mobi
 *.pdf
+
