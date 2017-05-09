@@ -1,6 +1,6 @@
 .grunt
 .c9
-.git
+.gitdir
 CNAME
 c9notes.md
 node_modules
